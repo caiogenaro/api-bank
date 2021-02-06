@@ -1,1 +1,25 @@
-{"nextId":1,"accounts":[]}
+{
+  "nextId": 7,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Caio Genaro",
+      "balance": 400020.5
+    },
+    {
+      "id": 4,
+      "name": "Caio genaro",
+      "balance": 400020.5
+    },
+    {
+      "id": 5,
+      "name": "Caio genaro",
+      "balance": 400020.5
+    },
+    {
+      "id": 6,
+      "name": "Caio genaro",
+      "balance": 8000
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 import express from "express";
 import accountsRouter from "./routes/accounts.js";
-import { promises as fs, write } from "fs";
+import { promises as fs } from "fs";
 
-const { readFile, writeFile} = fs;
+const { readFile, writeFile } = fs;
 
 const app = express();
 app.use(express.json());
